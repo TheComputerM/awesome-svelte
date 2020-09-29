@@ -10,12 +10,10 @@ md.converters.resource = (input) => {
   return output;
 };
 
-md.converters.ul = (input) => {
-  console.log(input);
-  return input
+md.converters.ul = (input) =>
+  input
     .map(({ resource }) => `- ${md.converters.resource(resource)}`)
     .join("\n");
-};
 
 function process(data, depth = 1) {
   const output = [];
