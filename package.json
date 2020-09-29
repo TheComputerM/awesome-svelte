@@ -1,0 +1,27 @@
+{
+  "name": "awesome-svelte",
+  "private": true,
+  "version": "1.0.0",
+  "description": "⚡ A curated list of awesome Svelte resources",
+  "main": "index.js",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheComputerM/awesome-svelte.git"
+  },
+  "keywords": ["svelte", "awesome"],
+  "author": "TheComputerM",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/TheComputerM/awesome-svelte/issues"
+  },
+  "homepage": "https://github.com/TheComputerM/awesome-svelte#readme",
+  "devDependencies": {
+    "@octokit/rest": "^18.0.6",
+    "json2md": "^1.7.1",
+    "remark": "^12.0.1",
+    "remark-toc": "^7.0.0"
+  }
+}
