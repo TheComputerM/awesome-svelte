@@ -10,6 +10,13 @@ md.converters.resource = (input) => {
   return output;
 };
 
+md.converters.ul = (input) => {
+  console.log(input);
+  return input
+    .map(({ resource }) => `- ${md.converters.resource(resource)}`)
+    .join("\n");
+};
+
 function process(data, depth = 1) {
   const output = [];
   for (let resource of data) {
@@ -42,14 +49,13 @@ const file = md([
   {
     img: {
       title: "CC0",
-      source:
-        "https://i.creativecommons.org/p/zero/1.0/88x31.png",
+      source: "https://i.creativecommons.org/p/zero/1.0/88x31.png",
     },
   },
 ]);
 
 remark()
-  .use(toc)
+  .use(toc, { tight: true })
   .process(file, (err, content) => {
     if (err) throw err;
     fs.writeFileSync("README.md", String(content));
