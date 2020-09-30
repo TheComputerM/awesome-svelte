@@ -79,16 +79,24 @@
 
 #### Table
 
+_Tables / data grids_
+
 -   [svelte-table](https://github.com/dasDaniel/svelte-table) – A svelte-3 table implementation that allows sorting and filtering
 -   [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) – Agnostic web-component for object-arrays with CRUD functionality.
 
 #### Notification
 
+_Toaster / snackbar — Notify the user with a modeless temporary little popup_
+
 -   [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) – Svelte toast notifications component that can be used in any JS application
 
 #### Form
 
+_Let the user create & edit data_
+
 ##### Checkbox
+
+_Switch / on/off toggle / checkbox_
 
 -   [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) – A checkbox component for Svelte (Cool animation, Customizable).
 -   [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) – Toggle component for Svelte
