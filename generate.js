@@ -4,16 +4,14 @@ const remark = require("remark");
 const toc = require("remark-toc");
 const resources = require("./index");
 
-md.converters.resource = (input) => {
+const format = (input) => {
   let output = `[${input.text}](${input.link})`;
   if (input.info) output += ` – ${input.info}`;
   return output;
 };
 
-md.converters.ul = (input) =>
-  input
-    .map(({ resource }) => `- ${md.converters.resource(resource)}`)
-    .join("\n");
+md.converters.list = (input) =>
+  input.map(({ resource }) => `- ${format(resource)}`).join("\n");
 
 function process(data, depth = 1) {
   const output = [];
@@ -23,7 +21,7 @@ function process(data, depth = 1) {
     } else {
       output.push(Object.fromEntries([[`h${depth + 1}`, resource.text]]));
       if (resource.items[0].link) {
-        output.push({ ul: process(resource.items) });
+        output.push({ list: process(resource.items) });
       } else {
         output.push(...process(resource.items, depth + 1));
       }

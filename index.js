@@ -125,16 +125,54 @@ module.exports = [
         text: "UI Components",
         items: [
           {
-            text: "svelte-notifications",
-            link: "https://github.com/beyonk-adventures/svelte-notifications",
-            info:
-              "Svelte toast notifications component that can be used in any JS application",
+            text: "Table",
+            items: [
+              {
+                text: "svelte-table",
+                link: "https://github.com/dasDaniel/svelte-table",
+                info:
+                  "A svelte-3 table implementation that allows sorting and filtering",
+              },
+              {
+                text: "svelte-generic-crud-table",
+                link: "https://github.com/ivosdc/svelte-generic-crud-table",
+                info:
+                  "Agnostic web-component for object-arrays with CRUD functionality.",
+              },
+            ],
           },
           {
-            text: "svelte-checkbox",
-            link: "https://github.com/HosseinShabani/svelte-checkbox",
-            info:
-              "A checkbox component for Svelte (Cool animation, Customizable).",
+            text: "Notification",
+            items: [
+              {
+                text: "svelte-notifications",
+                link:
+                  "https://github.com/beyonk-adventures/svelte-notifications",
+                info:
+                  "Svelte toast notifications component that can be used in any JS application",
+              },
+            ],
+          },
+          {
+            text: "Form",
+            items: [
+              {
+                text: "Checkbox",
+                items: [
+                  {
+                    text: "svelte-checkbox",
+                    link: "https://github.com/HosseinShabani/svelte-checkbox",
+                    info:
+                      "A checkbox component for Svelte (Cool animation, Customizable).",
+                  },
+                  {
+                    text: "svelte-toggle",
+                    link: "https://github.com/beyonk-adventures/svelte-toggle",
+                    info: "Toggle component for Svelte",
+                  },
+                ],
+              },
+            ],
           },
         ],
       },
