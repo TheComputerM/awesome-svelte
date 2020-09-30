@@ -200,6 +200,11 @@ module.exports = [
             info: "A markdown preprocessor for Svelte.",
           },
           {
+            text: "svelte-preprocess-markdown",
+            link: "https://github.com/AlexxNB/svelte-preprocess-markdown",
+            info: "Write Svelte components in markdown syntax"
+          },
+          {
             text: "svelte-preprocess-less",
             link: "https://github.com/ls-age/svelte-preprocess-less",
             info: "Svelte preprocessor for less.",
@@ -288,6 +293,63 @@ module.exports = [
                   "Svelte toast notifications component that can be used in any JS application",
               },
             ],
+          },
+          {
+            text: "Icons",
+            items: [
+              {
+                text: "svelte-fa",
+                link: "https://github.com/Cweili/svelte-fa",
+                info: "Tiny FontAwesome 5 component for Svelte",
+              },
+              {
+                text: "svelte-simple-icons",
+                link: "https://github.com/beyonk-adventures/svelte-simple-icons",
+                info: "Simple Brand Icons for Svelte",
+              },
+              {
+                text: "svelte-awesome",
+                link: "https://github.com/RobBrazier/svelte-awesome",
+                info: "Awesome SVG icon component for Svelte JS, built with Font Awesome icons.",
+              },
+              {
+                text: "svelte-icons",
+                link: "https://github.com/AnxiousDarkly/svelte-icons",
+                info: "Icon components for svelte"
+              }
+            ]
+          },
+          {
+            text: "Calendar",
+            info: "Display non-editable events in a Calendar",
+            items: [
+              {
+                text: "svelte-fullcalendar",
+                link: "https://github.com/YogliB/svelte-fullcalendar",
+                info: "A Svelte component wrapper around FullCalendar",
+              },
+              {
+                text: "svelte-calendar",
+                link: "https://github.com/6eDesign/svelte-calendar",
+                info: "A lightweight datepicker with neat animations and a unique UX.",
+              },
+            ]
+          },
+          {
+            text: "Maps",
+            info: "",
+            items: [
+              {
+                text: "svelte-googlemaps",
+                link: "https://github.com/beyonk-adventures/svelte-googlemaps",
+                info: "Svelte Google Maps Components",
+              },
+              {
+                text: "svelte-mapbox",
+                link: "https://github.com/beyonk-adventures/svelte-mapbox",
+                info: "MapBox Map and Autocomplete components for Svelte (or Vanilla JS)",
+              },
+            ]
           },
           {
             text: "Form",

@@ -23,6 +23,9 @@
     -   [UI Components](#ui-components)
         -   [Table](#table)
         -   [Notification](#notification)
+        -   [Icons](#icons)
+        -   [Calendar](#calendar)
+        -   [Maps](#maps)
         -   [Form](#form)
             -   [Checkbox](#checkbox)
     -   [Frameworks](#frameworks)
@@ -109,6 +112,7 @@ _Sapper and SSR_
 
 -   [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) – A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 -   [MDSveX](https://github.com/pngwn/MDsveX) – A markdown preprocessor for Svelte.
+-   [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) – Write Svelte components in markdown syntax
 -   [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) – Svelte preprocessor for less.
 -   [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) – Svelte preprocessor support for modular-css.
 -   [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) – Use PostCSS to preprocess your styles in Svelte components
@@ -137,6 +141,25 @@ _Tables / data grids_
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 -   [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) – Svelte toast notifications component that can be used in any JS application
+
+#### Icons
+
+-   [svelte-fa](https://github.com/Cweili/svelte-fa) – Tiny FontAwesome 5 component for Svelte
+-   [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) – Simple Brand Icons for Svelte
+-   [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) – Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+-   [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) – Icon components for svelte
+
+#### Calendar
+
+_Display non-editable events in a Calendar_
+
+-   [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) – A Svelte component wrapper around FullCalendar
+-   [svelte-calendar](https://github.com/6eDesign/svelte-calendar) – A lightweight datepicker with neat animations and a unique UX.
+
+#### Maps
+
+-   [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) – Svelte Google Maps Components
+-   [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) – MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
 
 #### Form
 
