@@ -1,6 +1,7 @@
 const fs = require("fs");
 const md = require("json2md");
 const remark = require("remark");
+const github = require('remark-github')
 const toc = require("remark-toc");
 const resources = require("./index");
 
@@ -44,6 +45,9 @@ const file = md([
   { h2: "Table Of Contents" },
   ...process(resources),
   {
+    p: "------------------------"
+  },
+  {
     img: {
       title: "CC0",
       source: "https://i.creativecommons.org/p/zero/1.0/88x31.png",
@@ -52,6 +56,7 @@ const file = md([
 ]);
 
 remark()
+  .use(github)
   .use(toc, { tight: true })
   .process(file, (err, content) => {
     if (err) throw err;
