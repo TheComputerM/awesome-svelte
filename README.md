@@ -19,6 +19,10 @@
 -   [Components & Libraries](#components--libraries)
     -   [UI Libraries](#ui-libraries)
     -   [UI Components](#ui-components)
+        -   [Table](#table)
+        -   [Notification](#notification)
+        -   [Form](#form)
+            -   [Checkbox](#checkbox)
 
 ## Resources
 
@@ -73,7 +77,20 @@
 
 ### UI Components
 
+#### Table
+
+-   [svelte-table](https://github.com/dasDaniel/svelte-table) – A svelte-3 table implementation that allows sorting and filtering
+-   [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) – Agnostic web-component for object-arrays with CRUD functionality.
+
+#### Notification
+
 -   [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) – Svelte toast notifications component that can be used in any JS application
+
+#### Form
+
+##### Checkbox
+
 -   [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) – A checkbox component for Svelte (Cool animation, Customizable).
+-   [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) – Toggle component for Svelte
 
 ![](https://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
