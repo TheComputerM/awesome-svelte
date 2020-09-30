@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/TheComputerM/awesome-svelte.git"
   },
-  "keywords": ["svelte", "awesome"],
+  "keywords": [
+    "svelte",
+    "awesome"
+  ],
   "author": "TheComputerM",
   "license": "CC0",
   "bugs": {
