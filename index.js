@@ -126,6 +126,7 @@ module.exports = [
         items: [
           {
             text: "Table",
+            info: "Tables / data grids",
             items: [
               {
                 text: "svelte-table",
@@ -143,6 +144,7 @@ module.exports = [
           },
           {
             text: "Notification",
+            info: "Toaster / snackbar — Notify the user with a modeless temporary little popup",
             items: [
               {
                 text: "svelte-notifications",
@@ -155,9 +157,11 @@ module.exports = [
           },
           {
             text: "Form",
+            info: "Let the user create & edit data",
             items: [
               {
                 text: "Checkbox",
+                info: "Switch / on/off toggle / checkbox",
                 items: [
                   {
                     text: "svelte-checkbox",

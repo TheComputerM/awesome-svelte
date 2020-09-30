@@ -20,6 +20,7 @@ function process(data, depth = 1) {
       output.push({ resource });
     } else {
       output.push(Object.fromEntries([[`h${depth + 1}`, resource.text]]));
+      if (resource.info) output.push({ p: `_${resource.info}_` });
       if (resource.items[0].link) {
         output.push({ list: process(resource.items) });
       } else {
