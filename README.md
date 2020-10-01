@@ -133,7 +133,7 @@ _Sapper and SSR_
 -   [Sveltestrap](https://github.com/bestguy/sveltestrap) – Bootstrap 4 components for Svelte
 -   [Smelte](https://github.com/matyunya/smelte) – UI framework with material components built with Svelte and Tailwind CSS
 -   [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) – Svelte Material UI Components
--   [carbon-components-svelte](https://github.com/hperrin/svelte-material-ui) – Svelte implementation of the IBM Carbon Design System
+-   [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) – Svelte implementation of the IBM Carbon Design System
 
 ### UI Components
 
