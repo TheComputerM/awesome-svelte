@@ -1,7 +1,7 @@
 const fs = require("fs");
 const md = require("json2md");
 const remark = require("remark");
-const github = require('remark-github')
+const github = require("remark-github");
 const toc = require("remark-toc");
 const resources = require("./index");
 
@@ -31,34 +31,30 @@ function process(data, depth = 1) {
   }
   return output;
 }
+const header = `<p align="center">
+<br>
+<img width="200" src="./awesome-svelte.svg" alt="awesome-svelte logo">
+<br>
+<br>
+</p>
 
-const file = md([
-  { h1: "Awesome Svelte" },
-  {
-    img: {
-      title: "Awesome Svelte",
-      source:
-        "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
-    },
-  },
-  { blockquote: "⚡ A curated list of awesome Svelte resources" },
-  { h2: "Table Of Contents" },
-  ...process(resources),
-  {
-    p: "------------------------"
-  },
-  {
-    img: {
-      title: "CC0",
-      source: "https://i.creativecommons.org/p/zero/1.0/88x31.png",
-    },
-  },
-]);
+## Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> ⚡ A curated list of awesome Svelte resources
+
+`;
+
+const footer = `
+* * *
+
+![](https://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+`;
+const file = md([{ h2: "Table Of Contents" }, ...process(resources)]);
 
 remark()
   .use(github)
   .use(toc, { tight: true })
   .process(file, (err, content) => {
     if (err) throw err;
-    fs.writeFileSync("README.md", String(content));
+    fs.writeFileSync("README.md", String(header + content + footer));
   });

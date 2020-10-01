@@ -292,6 +292,13 @@ module.exports = [
                 info:
                   "Svelte toast notifications component that can be used in any JS application",
               },
+              {
+                text: "svelte-favicon-badge",
+                link:
+                  "https://github.com/kevmodrome/svelte-favicon-badge",
+                info:
+                  "A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.",
+              },
             ],
           },
           {
@@ -348,6 +355,11 @@ module.exports = [
                 text: "svelte-mapbox",
                 link: "https://github.com/beyonk-adventures/svelte-mapbox",
                 info: "MapBox Map and Autocomplete components for Svelte (or Vanilla JS)",
+              },
+              {
+                text: "leaflet-svelte",
+                link: "https://github.com/anoram/leaflet-svelte",
+                info: "Svelte wrapper for leaflet.",
               },
             ]
           },
