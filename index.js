@@ -260,6 +260,11 @@ module.exports = [
             link: "https://github.com/hperrin/svelte-material-ui",
             info: "Svelte Material UI Components",
           },
+          {
+            text: "carbon-components-svelte",
+            link: "https://github.com/IBM/carbon-components-svelte",
+            info: "Svelte implementation of the IBM Carbon Design System",
+          },
         ],
       },
       {
@@ -421,6 +426,12 @@ module.exports = [
                 link: "https://elderguide.com/tech/elderjs/",
                 info:
                   "Opinionated static site generator and web framework for Svelte built with SEO in mind.",
+              },
+              {
+                text: "JungleJS",
+                link: "https://www.junglejs.org/",
+                info:
+                  "The Jamstack framework for Svelte. Leverage Svelte and GraphQL for a seamless build.",
               },
             ],
           },

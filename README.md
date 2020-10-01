@@ -133,6 +133,7 @@ _Sapper and SSR_
 -   [Sveltestrap](https://github.com/bestguy/sveltestrap) – Bootstrap 4 components for Svelte
 -   [Smelte](https://github.com/matyunya/smelte) – UI framework with material components built with Svelte and Tailwind CSS
 -   [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) – Svelte Material UI Components
+-   [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) – Svelte implementation of the IBM Carbon Design System
 
 ### UI Components
 
@@ -191,6 +192,7 @@ _Switch / on/off toggle / checkbox_
 
 -   [Sapper](https://sapper.svelte.dev/) – The next small thing in web development, powered by Svelte
 -   [Elder.js](https://elderguide.com/tech/elderjs/) – Opinionated static site generator and web framework for Svelte built with SEO in mind.
+-   [JungleJS](https://www.junglejs.org/) – The Jamstack framework for Svelte. Leverage Svelte and GraphQL for a seamless build.
 
 #### Mobile
 
