@@ -1,6 +1,6 @@
-# Awesome Svelte
+![](./awesome-svelte.svg "Awesome svelte")
 
-![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome Svelte")
+## Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > ⚡ A curated list of awesome Svelte resources
 
@@ -141,6 +141,7 @@ _Tables / data grids_
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 -   [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) – Svelte toast notifications component that can be used in any JS application
+-   [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) – A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 #### Icons
 
@@ -160,6 +161,7 @@ _Display non-editable events in a Calendar_
 
 -   [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) – Svelte Google Maps Components
 -   [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) – MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
+-   [leaflet-svelte](https://github.com/anoram/leaflet-svelte) – Svelte wrapper for leaflet.
 
 #### Form
 
