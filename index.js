@@ -441,6 +441,23 @@ module.exports = [
               },
             ],
           },
+          {
+            text: "Routers",
+            info: "For Single Page Applications (SPAs) and more",
+            items: [
+              {
+                text: "svelte-router-spa",
+                link: "https://github.com/jorgegorka/svelte-router",
+                info:
+                  "Svelte Router adds routing to your Svelte apps. It's designed for Single Page Applications (SPA). Includes localisation, guards and nested layouts.",
+              },
+              {
+                text: "svelte-routing",
+                link: "https://github.com/EmilTholin/svelte-routing",
+                info: "A declarative Svelte routing library with SSR support",
+              },
+            ],
+          },
         ],
       },
     ],
