@@ -38,6 +38,7 @@
         -   [Server Side Rendering](#server-side-rendering)
         -   [Static Site Generation](#static-site-generation)
         -   [Mobile](#mobile)
+        -   [Routers](#routers)
 -   [Dev Tools](#dev-tools)
     -   [Lint](#lint)
     -   [Docs](#docs)
@@ -200,6 +201,13 @@ _UI frameworks for mobile_
 
 -   [Svelte Native](https://svelte-native.technology/) – Svelte controlling native components via Nativescript
 -   [Framework7](https://framework7.io/svelte/) – Full featured HTML framework for building iOS & Android apps
+
+#### Routers
+
+_For Single Page Applications (SPAs) and more_
+
+-   [svelte-router-spa](https://github.com/jorgegorka/svelte-router) – Svelte Router adds routing to your Svelte apps. It's designed for Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+-   [svelte-routing](https://github.com/EmilTholin/svelte-routing) – A declarative Svelte routing library with SSR support
 
 ## Dev Tools
 
