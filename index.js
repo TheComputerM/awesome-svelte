@@ -16,7 +16,10 @@ module.exports = [
       },
       {
         text: "Community",
-        items: [{ text: "Twitter", link: "https://twitter.com/sveltejs" }],
+        items: [
+          { text: "Twitter", link: "https://twitter.com/sveltejs" },
+          { text: "Discord", link: "https://svelte.dev/chat" },
+        ],
       },
       {
         text: "Conferences",
@@ -346,7 +349,6 @@ module.exports = [
           },
           {
             text: "Maps",
-            info: "",
             items: [
               {
                 text: "svelte-googlemaps",
