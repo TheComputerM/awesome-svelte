@@ -61,6 +61,7 @@
 ### Community
 
 -   [Twitter](https://twitter.com/sveltejs)
+-   [Discord](https://svelte.dev/chat)
 
 ### Conferences
 
