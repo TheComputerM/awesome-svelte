@@ -31,30 +31,42 @@ function process(data, depth = 1) {
   }
   return output;
 }
-const header = `<p align="center">
-<br>
-<img width="200" src="./awesome-svelte.svg" alt="awesome-svelte logo">
-<br>
-<br>
+
+const banner = `
+<p align="center">
+  <br>
+  <img width="200" src="./awesome-svelte.svg" alt="awesome-svelte logo">
+  <br>
+  <br>
 </p>
 
-## Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> ⚡ A curated list of awesome Svelte resources
-
 `;
 
-const footer = `
-* * *
-
-![](https://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
-`;
-const file = md([{ h2: "Table Of Contents" }, ...process(resources)]);
+const file = md([
+  {
+    h2:
+      "Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)",
+  },
+  {
+    blockquote: "⚡ A curated list of awesome Svelte resources",
+  },
+  { h2: "Table Of Contents" },
+  ...process(resources),
+  {
+    p: "-----------------------------",
+  },
+  {
+    img: {
+      title: "CC0",
+      source: "https://i.creativecommons.org/p/zero/1.0/88x31.png",
+    },
+  },
+]);
 
 remark()
   .use(github)
   .use(toc, { tight: true })
   .process(file, (err, content) => {
     if (err) throw err;
-    fs.writeFileSync("README.md", String(header + content + footer));
+    fs.writeFileSync("README.md", banner + String(content));
   });
