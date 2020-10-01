@@ -262,7 +262,7 @@ module.exports = [
           },
           {
             text: "carbon-components-svelte",
-            link: "https://github.com/hperrin/svelte-material-ui",
+            link: "https://github.com/IBM/carbon-components-svelte",
             info: "Svelte implementation of the IBM Carbon Design System",
           },
         ],
