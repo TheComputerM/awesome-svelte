@@ -81,6 +81,7 @@
 -   [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) – DigitalOcean
 -   [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) – Scotch.io
 -   [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) – Svelte School
+-   [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) – The Net Ninja (YouTube)
 
 ### Scaffold
 
