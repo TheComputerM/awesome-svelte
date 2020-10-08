@@ -58,6 +58,11 @@ module.exports = [
             link: "https://svelte.school/tutorials/introduction-to-actions",
             info: "Svelte School",
           },
+          {
+            text: "Svelte Tutorial for Beginners",
+            link: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+            info: "The Net Ninja (YouTube)",
+          },
         ],
       },
       {
