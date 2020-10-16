@@ -38,6 +38,8 @@
     - [Static Site Generation](#static-site-generation)
     - [Mobile](#mobile)
     - [Routers](#routers)
+  - [UI Utilities](ui-utilities)
+    - [WebGL](#webgl)
 - [Dev Tools](#dev-tools)
   - [Lint](#lint)
   - [Docs](#docs)
@@ -208,6 +210,12 @@ _For Single Page Applications (SPAs) and more_
 
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Svelte Router adds routing to your Svelte apps. It's designed for Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+
+### UI Utilities
+
+#### WebGL
+
+- [svelthree](https://github.com/vatro/svelthree) - Svelte components library for declarative construction of reactive and reusable three.js scene graphs.
 
 ## Dev Tools
 
