@@ -9,6 +9,10 @@
 
 > ⚡ A curated list of awesome Svelte resources
 
+Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
 ## Contents
 
 - [Resources](#resources)
