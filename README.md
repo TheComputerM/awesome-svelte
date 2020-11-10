@@ -77,13 +77,13 @@ _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generat
 
 _Render Svelte application in the browser only_
 
-- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with Svelte with rollup
-- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components
-- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template
+- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with Svelte with rollup.
+- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components.
+- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components.
+- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit with Svelte.
 - [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
-- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Svelte TypeScript Rollup ESLint Jest Tailwind CSS
+- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Svelte TypeScript Rollup ESLint Jest Tailwind CSS.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
 
 #### Universal
@@ -118,7 +118,7 @@ _Sapper and SSR_
 ### UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components for Svelte
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components for Svelte.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
@@ -129,34 +129,34 @@ _Sapper and SSR_
 
 _Tables / data grids_
 
-- [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering
+- [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality.
 
 #### Notification
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application
+- [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 #### Icons
 
-- [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte
-- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Brand Icons for Svelte
+- [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte.
+- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Brand Icons for Svelte.
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
-- [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components for svelte
+- [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components for svelte.
 
 #### Calendar
 
 _Display non-editable events in a Calendar_
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A Svelte component wrapper around FullCalendar
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A Svelte component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 #### Maps
 
-- [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Svelte Google Maps Components
-- [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
+- [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Svelte Google Maps Components.
+- [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox Map and Autocomplete components for Svelte (or Vanilla JS).
 - [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for leaflet.
 
 #### Form
@@ -168,17 +168,17 @@ _Let the user create & edit data_
 _Switch / on/off toggle / checkbox_
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component for Svelte (Cool animation, Customizable).
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Toggle component for Svelte
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Toggle component for Svelte.
 
 ### Frameworks
 
 #### Server Side Rendering
 
-- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte
+- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
 
 #### Static Site Generation
 
-- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte
+- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte. Leverage Svelte and GraphQL for a seamless build.
 
@@ -186,8 +186,8 @@ _Switch / on/off toggle / checkbox_
 
 _UI frameworks for mobile_
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript
-- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 
 #### Routers
 
@@ -236,7 +236,7 @@ _Text editor plugins_
 
 #### Atom
 
-- [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for Svelte components
+- [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for Svelte components.
 - [language-svelte](https://atom.io/packages/language-svelte) - Provides syntax highlighting for Svelte Components, directives and other Svelte specific syntax in Atom.
 
 #### Sublime Text
