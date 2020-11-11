@@ -20,7 +20,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Community](#community)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
-  - [Youtube Channels](#youtube-channels)
+  - [YouTube Channels](#youtube-channels)
   - [Tutorials](#tutorials)
   - [Scaffold](#scaffold)
 - [Integrations](#integrations)
@@ -29,7 +29,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [UI Libraries](#ui-libraries)
   - [UI Components](#ui-components)
   - [Frameworks](#frameworks)
-  - [UI Utilities](ui-utilities)
+  - [UI Utilities](#ui-utilities)
 - [Dev Tools](#dev-tools)
   - [Lint](#lint)
   - [Docs](#docs)
@@ -58,16 +58,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Svelte Radio](https://www.svelteradio.com/)
 
-### Youtube Channels
+### YouTube Channels
 
 - [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
 
 ### Tutorials
 
-- [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - DigitalOcean
-- [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io
-- [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School
-- [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube)
+- [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - DigitalOcean.
+- [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
+- [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
+- [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
 
 ### Scaffold
 
@@ -83,7 +83,6 @@ _Render Svelte application in the browser only_
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit with Svelte.
 - [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
-- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Svelte TypeScript Rollup ESLint Jest Tailwind CSS.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
 
 #### Universal
@@ -94,7 +93,6 @@ _Sapper and SSR_
 - [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template, available for Webpack.
 - [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - Template that includes Sapper, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions.
 - [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - The default Sapper template with mdsvex.
-- [sapper-mdsvex-template-webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template with mdsvex for webpack.
 - [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) - Template that includes Sapper and PostCSS preprocessing with Tailwind CSS.
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
 - [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) - Starter Rollup template for Sapper apps with Firebase functions, PostCSS, PurgeCSS, CSSNano, Tailwind CSS, and svelte-preprocess.
@@ -178,7 +176,6 @@ _Switch / on/off toggle / checkbox_
 
 #### Static Site Generation
 
-- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte. Leverage Svelte and GraphQL for a seamless build.
 
@@ -222,7 +219,7 @@ _Create documentation_
 ### Test
 
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer for Svelte - compile your components before importing them into tests.
-- [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - 🐿️ Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+- [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
 ### Editors
