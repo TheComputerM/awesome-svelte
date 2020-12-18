@@ -9,7 +9,7 @@
 
 > ⚡ A curated list of awesome Svelte resources
 
-Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript
+[Svelte](https://svelte.dev/) is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -71,23 +71,23 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Scaffold
 
-_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
+_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
 
 #### Client
 
-_Render Svelte application in the browser only_
+_Render Svelte application in the browser only._
 
-- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with Svelte with rollup.
-- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components.
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components.
+- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with rollup.
+- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
+- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable components.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
-- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit with Svelte.
+- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit.
 - [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
 
 #### Universal
 
-_Sapper and SSR_
+_SSR framework._
 
 - [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) - The default Sapper template, available for Rollup.
 - [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template, available for Webpack.
@@ -103,70 +103,70 @@ _Sapper and SSR_
 
 ### Preprocessing
 
-- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
-- [MDSveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+- [MDSveX](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
-- [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - Svelte preprocessor for less.
-- [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Svelte preprocessor support for modular-css.
+- [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
+- [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
-- [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Svelte preprocessor for sass.
+- [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ## Components & Libraries
 
 ### UI Libraries
 
-- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components for Svelte.
-- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
-- [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components.
+- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
+- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
+- [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 
 ### UI Components
 
 #### Table
 
-_Tables / data grids_
+_Tables and data grids._
 
-- [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering.
+- [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality.
 
 #### Notification
 
-_Toaster / snackbar — Notify the user with a modeless temporary little popup_
+_Toaster / snackbar - Notify the user with a modeless temporary little popup._
 
-- [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.
+- [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 #### Icons
 
-- [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte.
-- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Brand Icons for Svelte.
+- [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
+- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Brand Icons.
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
-- [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components for svelte.
+- [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 #### Calendar
 
-_Display non-editable events in a Calendar_
+_Display non-editable events in a calendar._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A Svelte component wrapper around FullCalendar.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 #### Maps
 
-- [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Svelte Google Maps Components.
-- [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox Map and Autocomplete components for Svelte (or Vanilla JS).
-- [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for leaflet.
+- [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+- [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+- [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 #### Form
 
-_Let the user create & edit data_
+_Lets the user create and edit data._
 
 ##### Checkbox
 
-_Switch / on/off toggle / checkbox_
+_Switch / on/off toggle / checkbox._
 
-- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component for Svelte (Cool animation, Customizable).
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Toggle component for Svelte.
+- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Frameworks
 
@@ -177,75 +177,75 @@ _Switch / on/off toggle / checkbox_
 #### Static Site Generation
 
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
-- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte. Leverage Svelte and GraphQL for a seamless build.
+- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
 
 #### Mobile
 
-_UI frameworks for mobile_
+_UI frameworks for mobile._
 
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 
 #### Routers
 
-_For Single Page Applications (SPAs) and more_
+_For Single Page Applications (SPAs) and more._
 
-- [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Svelte Router adds routing to your Svelte apps. It's designed for Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+- [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
 
 ### UI Utilities
 
 #### WebGL
 
-- [svelthree](https://github.com/vatro/svelthree) - Svelte components library for declarative construction of reactive and reusable three.js scene graphs.
+- [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ## Dev Tools
 
 ### Lint
 
-_Lint and format your code_
+_Lint and format your code._
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
-- [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
-- [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code with svelte-check.
+- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
+- [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+- [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 
 ### Docs
 
-_Create documentation_
+_Create documentation._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
-- [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for a Svelte component.
+- [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
 
 ### Test
 
-- [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer for Svelte - compile your components before importing them into tests.
+- [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
 ### Editors
 
-_Text editor plugins_
+_Text editor plugins._
 
 #### Visual Studio Code
 
-- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Provides syntax highlighting and rich intellisense for Svelte components.
+- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Provides syntax highlighting and rich intellisense for your components.
 - [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) - Svelte 3 Snippets for VS Code.
 
 #### Atom
 
-- [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for Svelte components.
-- [language-svelte](https://atom.io/packages/language-svelte) - Provides syntax highlighting for Svelte Components, directives and other Svelte specific syntax in Atom.
+- [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for your components.
+- [language-svelte](https://atom.io/packages/language-svelte) - Provides syntax highlighting for components, directives and other Svelte specific syntax in Atom.
 
 #### Sublime Text
 
-- [Svelte](https://packagecontrol.io/packages/Svelte) - Sublime Text syntax highlighting for Svelte 3 components.
+- [Svelte](https://packagecontrol.io/packages/Svelte) - Syntax highlighting and support for Sublime Text.
 
 #### Vim
 
 - [vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
-- [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - Vim syntax and indent plugin for .svelte files.
-- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Svelte support for (Neo)Vim.
+- [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 #### JetBrains
 
-- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte)
+- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
