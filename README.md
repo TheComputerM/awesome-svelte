@@ -140,8 +140,8 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 #### Icons
 
 - [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Brand Icons.
-- [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
+- [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 #### Calendar
