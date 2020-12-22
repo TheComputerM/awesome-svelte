@@ -193,6 +193,7 @@ _For Single Page Applications (SPAs) and more._
 
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+- [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 
 ### UI Utilities
 
