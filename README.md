@@ -120,6 +120,7 @@ _SSR framework._
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+- [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ### UI Components
 
