@@ -22,6 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Podcasts](#podcasts)
   - [YouTube Channels](#youtube-channels)
   - [Tutorials](#tutorials)
+  - [Studies](#studies)
 - [Integrations](#integrations)
   - [Preprocessing](#preprocessing)
 - [Components & Libraries](#components--libraries)
@@ -68,6 +69,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
+
+### Studies
+
+_Studies and research on the Svelte framework._
+
+- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
+- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ## Integrations
 
