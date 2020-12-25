@@ -69,6 +69,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
+- [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
 
 ### Studies
 
