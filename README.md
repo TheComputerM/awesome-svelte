@@ -50,6 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
+- [Reddit](https://www.reddit.com/r/sveltejs/)
 
 ### Conferences
 
