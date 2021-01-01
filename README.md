@@ -33,6 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Scaffold](#scaffold)
 - [Dev Tools](#dev-tools)
   - [Lint](#lint)
+  - [Debuggers](#debuggers)
   - [Docs](#docs)
   - [Test](#test)
   - [Editors](#editors)
@@ -222,6 +223,12 @@ _Lint and format your code._
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
+
+### Debuggers
+
+_List of debuggers tools._
+
+- [svelte-debugger](https://www.npmjs.com/package/svelte-debugger) - A _JSON_ debugger component for Svelte apps.
 
 ### Docs
 
