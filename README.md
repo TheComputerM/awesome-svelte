@@ -144,6 +144,8 @@ _Display non-editable events in a calendar._
 
 _Lets the user create and edit data._
 
+- [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms in Svelte
+
 ##### Checkbox
 
 _Switch / on/off toggle / checkbox._
