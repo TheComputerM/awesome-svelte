@@ -180,6 +180,10 @@ _For Single Page Applications (SPAs) and more._
 
 ### UI Utilities
 
+#### Form
+
+- [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+
 #### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
