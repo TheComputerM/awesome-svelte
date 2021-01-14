@@ -213,6 +213,7 @@ _SSR framework._
 - [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - The default Sapper template with mdsvex.
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
+- [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
 
 ## Dev Tools
 
