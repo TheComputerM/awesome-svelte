@@ -64,6 +64,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### YouTube Channels
 
 - [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
+- [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
 
 ### Tutorials
 
