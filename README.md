@@ -81,6 +81,7 @@ _Studies and research on the Svelte framework._
 
 - [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
 - [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+- [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
 
 ## Integrations
 
