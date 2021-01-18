@@ -190,6 +190,11 @@ _For Single Page Applications (SPAs) and more._
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
+#### Portal
+
+- [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+- [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+
 ### Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
