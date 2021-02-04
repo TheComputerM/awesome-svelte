@@ -112,6 +112,7 @@ _Studies and research on the Svelte framework._
 
 _Tables and data grids._
 
+- [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality.
 
