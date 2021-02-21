@@ -74,6 +74,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
 - [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
+- [Svelte Stores](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK) - @lihautan (YouTube).
+- [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan (YouTube).
 
 ### Studies
 
