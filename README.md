@@ -225,6 +225,13 @@ _SSR framework._
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
 
+#### Electron
+
+_Electron templates_
+
+- [svelte-vite-electron-template](https://github.com/EdwinIwan/svelte-vite-electron-template) - Template that includes Vite, Electron and Typescipt.
+
+
 ## Dev Tools
 
 ### Lint
