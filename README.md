@@ -107,6 +107,7 @@ _Studies and research on the Svelte framework._
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+- [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ### UI Components
 
