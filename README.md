@@ -185,6 +185,10 @@ _For Single Page Applications (SPAs) and more._
 
 ### UI Utilities
 
+#### Grid
+
+- [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+
 #### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
