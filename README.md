@@ -157,6 +157,10 @@ _Switch / on/off toggle / checkbox._
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
+##### Modal
+
+- [svelte-simple-modal](https://github.com/flekschas/svelte-simple-modal)
+
 ### Frameworks
 
 #### Server Side Rendering
