@@ -184,6 +184,7 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
 - [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+- [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's. This is The Svelte Router for SPA!
 
 ### UI Utilities
 
