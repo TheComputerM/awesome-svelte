@@ -120,7 +120,8 @@ _Tables and data grids._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+- [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 #### Notification
 
