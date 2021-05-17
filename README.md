@@ -208,6 +208,10 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 - [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
+#### Visibility
+
+- [svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.
+
 ### Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
