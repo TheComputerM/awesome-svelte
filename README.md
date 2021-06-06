@@ -262,6 +262,7 @@ _Create documentation._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
+- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
 
 ### Test
 
