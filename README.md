@@ -28,9 +28,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Components & Libraries](#components--libraries)
   - [UI Libraries](#ui-libraries)
   - [UI Components](#ui-components)
-  - [Frameworks](#frameworks)
-  - [UI Utilities](#ui-utilities)
   - [Scaffold](#scaffold)
+- [Utilities](#utilities)
+  - [Form](#form)
+  - [WebGL](#webgl)
+  - [Portal](#portal)
+- [Routers](#routers)
+- [Frameworks](#frameworks)
+- [Mobile](#mobile)
 - [Dev Tools](#dev-tools)
   - [Lint](#lint)
   - [Docs](#docs)
@@ -131,6 +136,10 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
+#### Grid
+
+- [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+
 #### Icons
 
 - [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
@@ -162,53 +171,6 @@ _Switch / on/off toggle / checkbox._
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
-### Frameworks
-
-#### Server Side Rendering
-
-- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
-
-#### Static Site Generation
-
-- [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
-- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-
-#### Mobile
-
-_UI frameworks for mobile._
-
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
-- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
-
-#### Routers
-
-_For Single Page Applications (SPAs) and more._
-
-- [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
-- [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-- [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
-- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-- [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
-
-### UI Utilities
-
-#### Grid
-
-- [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
-
-#### Form
-
-- [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
-
-#### WebGL
-
-- [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
-
-#### Portal
-
-- [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
-- [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
-
 ### Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
@@ -235,6 +197,46 @@ _SSR framework._
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
+
+## Utilities
+
+### Form
+
+- [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+
+### WebGL
+
+- [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+
+### Portal
+
+- [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+- [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+
+## Routers
+
+_For Single Page Applications (SPAs) and more._
+
+- [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+- [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+- [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+- [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+
+
+## Frameworks
+
+- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
+- [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
+- [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
+- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
+
+## Mobile
+
+_UI frameworks for mobile._
+
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 
 ## Dev Tools
 
