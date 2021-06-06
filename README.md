@@ -25,17 +25,25 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Studies](#studies)
 - [Integrations](#integrations)
   - [Preprocessing](#preprocessing)
-- [Components & Libraries](#components--libraries)
-  - [UI Libraries](#ui-libraries)
-  - [UI Components](#ui-components)
-  - [Scaffold](#scaffold)
+  - [Mobile](#mobile)
+- [UI Libraries](#ui-libraries)
+- [UI Components](#ui-components)
+  - [Table](#table)
+  - [Notification](#notification)
+  - [Grid](#grid)
+  - [Icons](#icons)
+  - [Calendar](#calendar)
+  - [Maps](#maps)
+  - [Form](#form)
+- [Scaffold](#scaffold)
+  - [Client](#client)
+  - [Universal](#universal)
 - [Utilities](#utilities)
   - [Form](#form)
   - [WebGL](#webgl)
   - [Portal](#portal)
 - [Routers](#routers)
 - [Frameworks](#frameworks)
-- [Mobile](#mobile)
 - [Dev Tools](#dev-tools)
   - [Lint](#lint)
   - [Docs](#docs)
@@ -106,9 +114,14 @@ _Studies and research on the Svelte framework._
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
-## Components & Libraries
+### Mobile
 
-### UI Libraries
+_UI frameworks for mobile._
+
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
+
+## UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
@@ -118,9 +131,9 @@ _Studies and research on the Svelte framework._
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
-### UI Components
+## UI Components
 
-#### Table
+### Table
 
 _Tables and data grids._
 
@@ -129,49 +142,49 @@ _Tables and data grids._
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
-#### Notification
+### Notification
 
 _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
-#### Grid
+### Grid
 
 - [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
-#### Icons
+### Icons
 
 - [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
 - [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
-#### Calendar
+### Calendar
 
 _Display non-editable events in a calendar._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
-#### Maps
+### Maps
 
 - [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
 - [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
 - [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
-#### Form
+### Form
 
 _Lets the user create and edit data._
 
-##### Checkbox
+#### Checkbox
 
 _Switch / on/off toggle / checkbox._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
-### Scaffold
+## Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
 
@@ -231,13 +244,6 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-
-## Mobile
-
-_UI frameworks for mobile._
-
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
-- [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 
 ## Dev Tools
 
