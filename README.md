@@ -226,6 +226,7 @@ _For Single Page Applications (SPAs) and more._
 
 ## Frameworks
 
+- [SvelteKit](https://kit.svelte.dev/) - The fastest way to build Svelte apps.
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
