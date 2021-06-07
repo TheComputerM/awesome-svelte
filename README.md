@@ -124,7 +124,7 @@ _UI frameworks for mobile._
 ## UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
