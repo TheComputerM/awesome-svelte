@@ -226,6 +226,10 @@ _SSR framework._
 - [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 - [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
+### Internationalisation
+
+- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization
+
 ## Routers
 
 _For Single Page Applications (SPAs) and more._
