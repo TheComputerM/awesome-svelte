@@ -215,6 +215,10 @@ _SSR framework._
 
 ## Utilities
 
+### Animations
+
+- [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
