@@ -200,6 +200,7 @@ _Render Svelte application in the browser only._
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
+- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - Starter template with Typescript activated and Jest working.
 
 #### Universal
 
