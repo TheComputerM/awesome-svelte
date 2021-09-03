@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Client](#client)
   - [Universal](#universal)
 - [Utilities](#utilities)
+  - [Animations](#animations)
   - [Form](#form-1)
   - [WebGL](#webgl)
   - [Portal](#portal)
