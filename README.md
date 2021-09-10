@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Calendar](#calendar)
   - [Maps](#maps)
   - [Form](#form)
+  - [Tabs](#tabs)
 - [Scaffold](#scaffold)
   - [Client](#client)
   - [Universal](#universal)
@@ -178,6 +179,10 @@ _Display non-editable events in a calendar._
 ### Form
 
 _Lets the user create and edit data._
+
+### Tabs
+
+- [Tabs Component](https://svelte.dev/repl/7373880df7f64107b86f9e86c05f38b4?version=3.5.1) - Tabs Component Example.
 
 #### Checkbox
 
