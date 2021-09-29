@@ -236,6 +236,7 @@ _SSR framework._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Store functions for integrating [i18n](https://www.npmjs.com/package/i18n) style localization
 
 ## Routers
 
