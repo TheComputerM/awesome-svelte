@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Client](#client)
   - [Universal](#universal)
 - [Utilities](#utilities)
+  - [Animations](#animations)
   - [Form](#form-1)
   - [WebGL](#webgl)
   - [Portal](#portal)
@@ -215,6 +216,10 @@ _SSR framework._
 - [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
 
 ## Utilities
+
+### Animations
+
+- [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ### Form
 
