@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Calendar](#calendar)
   - [Maps](#maps)
   - [Form](#form)
+  - [Tree](#tree)
 - [Scaffold](#scaffold)
   - [Client](#client)
   - [Universal](#universal)
@@ -169,6 +170,10 @@ _Display non-editable events in a calendar._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+
+### Tree
+
+- [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 
 ### Maps
 
