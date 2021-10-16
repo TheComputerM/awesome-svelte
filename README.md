@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Calendar](#calendar)
   - [Maps](#maps)
   - [Form](#form)
+  - [Miscellaneous](#miscellaneous)
 - [Scaffold](#scaffold)
   - [Client](#client)
   - [Universal](#universal)
@@ -52,7 +53,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Docs](#docs)
   - [Test](#test)
   - [Editors](#editors)
-- [Miscellaneous](#miscellaneous)
 
 ## Resources
 
@@ -188,6 +188,10 @@ _Switch / on/off toggle / checkbox._
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
+### Miscellaneous
+
+- [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+
 ## Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
@@ -315,7 +319,3 @@ _Text editor plugins._
 #### JetBrains
 
 - [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
-
-## Miscellaneous
-
-- [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
