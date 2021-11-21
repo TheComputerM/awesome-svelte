@@ -46,6 +46,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Portal](#portal)
   - [Fonts](#fonts)
   - [Internationalisation](#internationalisation)
+  - [HTTP Requests](#http-requests)
 - [Routers](#routers)
 - [Frameworks](#frameworks)
 - [Dev Tools](#dev-tools)
@@ -249,6 +250,11 @@ _SSR framework._
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Store functions for integrating [i18n](https://www.npmjs.com/package/i18n) style localization
+
+### HTTP Requests
+
+- [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 
 ## Routers
 
