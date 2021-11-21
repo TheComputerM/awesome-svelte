@@ -229,6 +229,7 @@ _SSR framework._
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+- [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, and Superstruct validation.
 
 ### WebGL
 
