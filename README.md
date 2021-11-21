@@ -97,6 +97,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan (YouTube).
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
 - [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
+- [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 
 ### Studies
 
