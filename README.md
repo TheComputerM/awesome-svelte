@@ -165,6 +165,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+- [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
 
 ### Calendar
 
