@@ -194,6 +194,7 @@ _Switch / on/off toggle / checkbox._
 ### Miscellaneous
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+- [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## Scaffold
 
