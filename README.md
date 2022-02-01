@@ -158,6 +158,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 ### Grid
 
 - [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+- [svelte-flex](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Icons
 
