@@ -158,6 +158,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 ### Grid
 
 - [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+- [svelte-flex](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Icons
 
@@ -194,6 +195,7 @@ _Switch / on/off toggle / checkbox._
 ### Miscellaneous
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+- [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## Scaffold
 
@@ -250,8 +252,9 @@ _SSR framework._
 
 ### Internationalisation
 
-- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Store functions for integrating [i18n](https://www.npmjs.com/package/i18n) style localization
+- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+- [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## Routers
