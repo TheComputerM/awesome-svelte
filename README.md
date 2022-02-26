@@ -127,7 +127,7 @@ _UI frameworks for mobile._
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 
 ## UI Libraries
-
+- [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
