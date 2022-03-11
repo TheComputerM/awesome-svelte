@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Calendar](#calendar)
   - [Maps](#maps)
   - [Form](#form)
+  - [Charts](#charts)
   - [Miscellaneous](#miscellaneous)
 - [Scaffold](#scaffold)
   - [Client](#client)
@@ -191,6 +192,10 @@ _Switch / on/off toggle / checkbox._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+
+### Charts
+
+- [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ### Miscellaneous
 
