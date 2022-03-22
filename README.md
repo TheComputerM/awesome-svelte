@@ -245,6 +245,7 @@ _SSR framework._
 ### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+- [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Component library for declarative construction of reactive three.js scenes. Created by Rich Harris
 
 ### Portal
 
