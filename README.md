@@ -201,6 +201,7 @@ _Switch / on/off toggle / checkbox._
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+- [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 
 ## Scaffold
 
