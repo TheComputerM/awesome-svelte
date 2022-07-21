@@ -119,6 +119,7 @@ _Studies and research on the Svelte framework._
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+- [svelte-css-short-name-preprocess](https://github.com/Naararouter/svelte-css-short-name-preprocess) - Preprocessor for css class names minification in production.
 
 ### Mobile
 
