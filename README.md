@@ -136,6 +136,7 @@ _UI frameworks for mobile._
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+- [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## UI Components
 
