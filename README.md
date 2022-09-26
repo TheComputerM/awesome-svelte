@@ -278,6 +278,7 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+- [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 
 
 ## Frameworks
