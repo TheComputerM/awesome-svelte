@@ -130,7 +130,6 @@ _UI frameworks for mobile._
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
@@ -138,6 +137,7 @@ _UI frameworks for mobile._
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+- [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 
 ## UI Components
 
