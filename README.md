@@ -269,6 +269,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
+- [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 
 ## Dev Tools
 
