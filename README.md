@@ -202,6 +202,7 @@ _Switch / on/off toggle / checkbox._
 ### Charts
 
 - [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+- [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ### Miscellaneous
 
