@@ -208,6 +208,7 @@ _Switch / on/off toggle / checkbox._
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+- [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ## Scaffold
 
