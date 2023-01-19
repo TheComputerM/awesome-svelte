@@ -131,7 +131,7 @@ _UI frameworks for mobile._
 
 ## State Libraries
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
-- [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelete store contract with support for asynchronous values
+- [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
