@@ -119,6 +119,7 @@ _Studies and research on the Svelte framework._
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+- [svelte-switch-case](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Mobile
 
@@ -126,16 +127,22 @@ _UI frameworks for mobile._
 
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
+- [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+
+## State Libraries
+- [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
+- [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+- [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+- [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 
 ## UI Components
 
@@ -155,6 +162,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+- [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ### Grid
 
@@ -168,6 +176,8 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 - [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
+- [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
+- [svelte-unicons](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 
 ### Calendar
 
@@ -196,45 +206,29 @@ _Switch / on/off toggle / checkbox._
 ### Charts
 
 - [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+- [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ### Miscellaneous
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 - [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
+- [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ## Scaffold
 
-_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
+_Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
-#### Client
-
-_Render Svelte application in the browser only._
-
-- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with rollup.
+- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+- [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable components.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
-- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit.
-- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
-- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - Starter template with Typescript activated and Jest working.
-
-#### Universal
-
-_SSR framework._
-
-- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) - The default Sapper template, available for Rollup.
-- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template, available for Webpack.
-- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - Template that includes Sapper, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions.
-- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - The default Sapper template with mdsvex.
-- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
-- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
-- [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
 
 ## Utilities
 
 ### Animations
 
+- [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ### Form
@@ -242,6 +236,7 @@ _SSR framework._
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+- [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ### WebGL
 
@@ -272,12 +267,13 @@ _For Single Page Applications (SPAs) and more._
 - [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+- [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+- [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 
 
 ## Frameworks
 
 - [SvelteKit](https://kit.svelte.dev/) - The fastest way to build Svelte apps.
-- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development, powered by Svelte.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
