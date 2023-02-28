@@ -144,7 +144,7 @@ _UI frameworks for mobile._
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
-- [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library, designed to help developers build enterprise-grade web applications quickly and easily.
+- [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 
 ## UI Components
 
