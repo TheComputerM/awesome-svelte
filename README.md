@@ -100,6 +100,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
 - [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 - [Typescript + Svelte Cheatsheet](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+- [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
+- [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
+- [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
 
 ### Studies
 
