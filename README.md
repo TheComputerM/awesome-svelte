@@ -139,6 +139,7 @@ _UI frameworks for mobile._
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+- [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
