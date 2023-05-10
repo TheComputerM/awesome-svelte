@@ -149,6 +149,7 @@ _UI frameworks for mobile._
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
+- [Radix Svelte](https://radix-svelte.com) - Radix Svelte is an unofficial community-led Svelte port of Radix UI Primitives, a set of unstyled, accessible components for building high‑quality design systems and web apps.
 
 ## UI Components
 
