@@ -69,7 +69,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
-- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
+- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
 ### Conferences
 
@@ -97,7 +97,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan (YouTube).
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan (YouTube).
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
-- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
+- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
 - [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 - [Typescript + Svelte Cheatsheet](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
 - [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
@@ -134,10 +134,12 @@ _UI frameworks for mobile._
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
 
 ## State Libraries
+
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
 ## UI Libraries
+
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 - [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
@@ -191,6 +193,7 @@ _Display non-editable events in a calendar._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+- [date-picker-svelte](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ### Maps
 
@@ -276,7 +279,6 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 - [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
-
 
 ## Frameworks
 
