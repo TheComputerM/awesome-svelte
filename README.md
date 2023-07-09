@@ -294,7 +294,6 @@ _For Single Page Applications (SPAs) and more._
 
 _Lint and format your code._
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 - [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
