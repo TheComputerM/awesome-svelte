@@ -62,7 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Official Guide](https://svelte.dev/tutorial)
 - [API Reference](https://svelte.dev/docs)
 - [GitHub Repo](https://github.com/sveltejs/svelte)
-- [Changelog](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ### Community
 
