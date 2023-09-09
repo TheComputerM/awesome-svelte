@@ -152,6 +152,7 @@ _UI frameworks for mobile._
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
+- [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 
 ## UI Components
 
