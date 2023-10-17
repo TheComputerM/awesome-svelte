@@ -137,6 +137,7 @@ _UI frameworks for mobile._
 
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## UI Libraries
 
