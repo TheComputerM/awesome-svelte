@@ -256,6 +256,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+- [threlte](https://threlte.xyz) - Svelte wrapper for three.js
 
 ### PWA
 - [SvelteKit-Adapter-Versioned-Worker](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
