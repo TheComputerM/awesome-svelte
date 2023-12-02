@@ -227,6 +227,7 @@ _Switch / on/off toggle / checkbox._
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 - [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 - [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
+- [svelte-stepper](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 
 ## Scaffold
 
