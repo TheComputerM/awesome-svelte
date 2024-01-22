@@ -154,6 +154,7 @@ _UI frameworks for mobile._
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
+- [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## UI Components
 
