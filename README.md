@@ -228,10 +228,7 @@ _Switch / on/off toggle / checkbox._
 - [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 - [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 - [svelte-stepper](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
-
-### Progress Bar
-
-- [css-3d-progress](https://github.com/rofixro/css-3d-progress) - 3D Progress Bar
+- [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
 ## Scaffold
 
