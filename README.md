@@ -156,7 +156,10 @@ _UI frameworks for mobile._
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 
 ## UI Components
+## Rte
+_Rte content editors._
 
+- [sveditorjs](https://sveditorjs.vercel.app) - A svelte and sveltekit editorjs component.
 ### Table
 
 _Tables and data grids._
