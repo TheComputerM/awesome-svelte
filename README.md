@@ -44,6 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Animations](#animations)
   - [Form](#form-1)
   - [WebGL](#webgl)
+  - [PWA](#pwa)
   - [Portal](#portal)
   - [Fonts](#fonts)
   - [Internationalisation](#internationalisation)
@@ -87,7 +88,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Tutorials
 
 - [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - DigitalOcean.
-- [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
 - [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
@@ -103,6 +103,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
 - [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
 - [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
+- [Setup Authentication with AuthJS and Sveltekit 2.0](https://www.youtube.com/watch?v=ridRgYSJ0ds) - @bradcypert (YouTube)
 
 ### Studies
 
@@ -137,6 +138,7 @@ _UI frameworks for mobile._
 
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## UI Libraries
 
@@ -146,13 +148,17 @@ _UI frameworks for mobile._
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
-- [Radix Svelte](https://github.com/TGlide/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+- [Melt UI](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
+- [Radix Svelte](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
+- [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
+- [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+
 
 ## UI Components
 
@@ -226,6 +232,8 @@ _Switch / on/off toggle / checkbox._
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 - [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 - [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
+- [svelte-stepper](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
+- [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
 ## Scaffold
 
@@ -246,14 +254,21 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+- [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 - [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+- [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
 
 ### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+- [threlte](https://threlte.xyz) - Svelte wrapper for three.js
+
+### PWA
+
+- [SvelteKit-Adapter-Versioned-Worker](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ### Portal
 
@@ -291,6 +306,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
+- [svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
 
