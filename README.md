@@ -263,6 +263,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [threlte](https://threlte.xyz) - Svelte wrapper for three.js
 
 ### PWA
+
 - [SvelteKit-Adapter-Versioned-Worker](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ### Portal
@@ -301,6 +302,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
+- [svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
 
