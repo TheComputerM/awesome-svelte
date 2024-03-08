@@ -103,6 +103,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
 - [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
 - [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
+- [Setup Authentication with AuthJS and Sveltekit 2.0](https://www.youtube.com/watch?v=ridRgYSJ0ds) - @bradcypert (YouTube)
 
 ### Studies
 
