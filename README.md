@@ -160,7 +160,10 @@ _UI frameworks for mobile._
 - [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## UI Components
+## Rte
+_Rte content editors._
 
+- [sveditorjs](https://sveditorjs.vercel.app) - A svelte and sveltekit editorjs component.
 ### Table
 
 _Tables and data grids._
