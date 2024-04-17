@@ -158,6 +158,7 @@ _UI frameworks for mobile._
 - [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 - [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+- [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ## UI Components
 
