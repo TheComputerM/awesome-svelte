@@ -163,7 +163,10 @@ _UI frameworks for mobile._
 - [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 
 ## UI Components
+## Rte
+_Rte content editors._
 
+- [sveditorjs](https://sveditorjs.vercel.app) - A svelte and sveltekit editorjs component.
 ### Table
 
 _Tables and data grids._
