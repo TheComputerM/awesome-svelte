@@ -246,6 +246,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+- [FastestEngineer](https://fastest.engineer) - A starter kit to build a Fully Featured SAAS app.
 
 ## Utilities
 
@@ -310,6 +311,7 @@ _For Single Page Applications (SPAs) and more._
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+- [Primate](https://primatejs.com) - A polymorphic development platform
 
 ## Dev Tools
 
