@@ -206,6 +206,7 @@ _Display non-editable events in a calendar._
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 - [date-picker-svelte](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+- [@schedule-x/svelte](https://github.com/schedule-x/schedule-x) - A material design event calendar library
 
 ### Maps
 
