@@ -212,6 +212,7 @@ _Display non-editable events in a calendar._
 - [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
 - [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
 - [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
+- [esri-svelte](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte
 
 ### Form
 
