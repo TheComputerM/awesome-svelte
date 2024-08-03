@@ -48,6 +48,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Portal](#portal)
   - [Fonts](#fonts)
   - [Internationalisation](#internationalisation)
+  - [HTTP Requests](#http-requests)
 - [Routers](#routers)
 - [Frameworks](#frameworks)
 - [Dev Tools](#dev-tools)
@@ -291,6 +292,11 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+
+### HTTP Requests
+
+- [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 
 ## Routers
 
