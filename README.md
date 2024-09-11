@@ -248,6 +248,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+- [https://saasstarter.work] - A open source, fast, and free to host Svelte SaaS template
 
 ## Utilities
 
