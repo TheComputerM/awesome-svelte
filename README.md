@@ -249,6 +249,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 - [https://saasstarter.work] - A open source, fast, and free to host Svelte SaaS template
+- [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for `Svelte` + `Docker` + `Vite` + `Vitest`
 
 ## Utilities
 
