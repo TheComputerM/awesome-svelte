@@ -162,6 +162,7 @@ _UI frameworks for mobile._
 - [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 - [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 - [SVAR Core for Svelte](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+- [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source
 
 ## UI Components
 
