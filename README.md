@@ -232,7 +232,7 @@ _Switch / on/off toggle / checkbox._
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Miscellaneous
-
+- [svelte-audio-visualizations](https://github.com/flo-bit/svelte-audio-visualizations) - simple, zero dependency audio visualizations for svelte, especially useful for visualizing voice input and output.
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 - [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
