@@ -270,7 +270,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
-- [threlte](https://threlte.xyz) - Threlte is a renderer and component library for using Three.js in a declarative and state-driven way in Svelte apps
+- [threlte](https://threlte.xyz) - Threlte is a renderer and component library for using Three.js in a declarative and state-driven way in Svelte apps.
 
 ### PWA
 
