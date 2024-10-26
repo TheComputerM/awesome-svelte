@@ -125,6 +125,7 @@ _UI frameworks for mobile._
 ## UI Libraries
 
 - [shadcn-svelte](https://www.shadcn-svelte.com/) - Beautifully designed components that you can copy and paste into your apps.
+- [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
 - [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 - [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
 - [Sveltestrap](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
