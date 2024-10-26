@@ -232,7 +232,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
-- [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for `Svelte` + `Docker` + `Vite` + `Vitest`
+- [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 
 ## Utilities
 
