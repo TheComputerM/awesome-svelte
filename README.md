@@ -145,7 +145,10 @@ _UI frameworks for mobile._
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## UI Components
+## Rte
+_Rte content editors._
 
+- [sveditorjs](https://sveditorjs.vercel.app) - A svelte and sveltekit editorjs component.
 ### Table
 
 _Tables and data grids._
