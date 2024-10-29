@@ -293,6 +293,7 @@ _For Single Page Applications (SPAs) and more._
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 - [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 - [Elegua](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
+- [svelte5-router](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## Frameworks
 
