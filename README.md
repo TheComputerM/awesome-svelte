@@ -42,6 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Scaffold](#scaffold)
   - [Utilities](#utilities)
     - [Animations](#animations)
+    - [Drag \& Drop](#drag--drop)
     - [Forms](#forms)
       - [Form Components](#form-components)
     - [HTTP Requests](#http-requests)
@@ -243,6 +244,10 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+
+### Drag & Drop
+
+- [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
 
 ### Forms
 
