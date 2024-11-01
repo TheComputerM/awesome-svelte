@@ -45,6 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Forms](#forms)
       - [Form Components](#form-components)
     - [HTTP Requests](#http-requests)
+    - [Sound \& Video](#sound--video)
     - [WebGL](#webgl)
     - [PWA](#pwa)
     - [Portal](#portal)
@@ -261,6 +262,10 @@ _Individual form components._
 
 - [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
+
+### Sound & Video
+
+- [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound) - Svelte Actions to play interaction sounds on target DOM events.
 
 ### WebGL
 
