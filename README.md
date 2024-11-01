@@ -15,44 +15,51 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Podcasts](#podcasts)
-  - [YouTube Channels](#youtube-channels)
-  - [Tutorials](#tutorials)
-  - [Studies](#studies)
-- [Integrations](#integrations)
-  - [Preprocessing](#preprocessing)
-  - [Mobile](#mobile)
-- [State Libraries](#state-libraries)
-- [UI Libraries](#ui-libraries)
-- [UI Components](#ui-components)
-  - [Table](#table)
-  - [Notification](#notification)
-  - [Grid](#grid)
-  - [Icons](#icons)
-  - [Calendar](#calendar)
-  - [Maps](#maps)
-  - [Form](#form)
-  - [Charts](#charts)
-  - [Miscellaneous](#miscellaneous)
-- [Scaffold](#scaffold)
-- [Utilities](#utilities)
-  - [Animations](#animations)
-  - [Form](#form-1)
-  - [WebGL](#webgl)
-  - [PWA](#pwa)
-  - [Portal](#portal)
-  - [Fonts](#fonts)
-  - [Internationalization](#Internationalization)
-- [Routers](#routers)
-- [Frameworks](#frameworks)
-- [Dev Tools](#dev-tools)
-  - [Lint](#lint)
-  - [Test](#test)
-  - [Editors](#editors)
+- [Awesome Svelte](#awesome-svelte-)
+  - [Contents](#contents)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [Community](#community)
+    - [Conferences](#conferences)
+    - [Podcasts](#podcasts)
+    - [YouTube Channels](#youtube-channels)
+    - [Tutorials](#tutorials)
+    - [Studies](#studies)
+  - [Integrations](#integrations)
+    - [Preprocessing](#preprocessing)
+    - [Mobile](#mobile)
+  - [State Libraries](#state-libraries)
+  - [UI Libraries](#ui-libraries)
+  - [UI Components](#ui-components)
+    - [Table](#table)
+    - [Notification](#notification)
+    - [Grid](#grid)
+    - [Icons](#icons)
+    - [Calendar](#calendar)
+    - [Maps](#maps)
+    - [Form](#form)
+      - [Checkbox](#checkbox)
+    - [Charts](#charts)
+    - [Miscellaneous](#miscellaneous)
+  - [Scaffold](#scaffold)
+  - [Utilities](#utilities)
+    - [Animations](#animations)
+    - [Form](#form-1)
+    - [WebGL](#webgl)
+    - [PWA](#pwa)
+    - [Portal](#portal)
+    - [Fonts](#fonts)
+    - [Internationalization](#internationalization)
+  - [Routers](#routers)
+  - [Frameworks](#frameworks)
+  - [Dev Tools](#dev-tools)
+    - [Lint](#lint)
+    - [Test](#test)
+    - [Editors](#editors)
+      - [Visual Studio Code](#visual-studio-code)
+      - [Sublime Text](#sublime-text)
+      - [Vim](#vim)
+      - [JetBrains](#jetbrains)
 
 ## Resources
 
@@ -88,13 +95,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
 - [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
 
-
 ### Studies
 
 _Studies and research on the Svelte framework._
 
-- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? *(pre-v5)*
-- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. *(pre-v5)*
+- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? _(pre-v5)_
+- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. _(pre-v5)_
 
 ## Integrations
 
@@ -132,7 +138,7 @@ _UI frameworks for mobile._
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [Melt UI](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-- [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
+- [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit. _(pre-v5)_
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [Svelte UX](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
@@ -140,7 +146,7 @@ _UI frameworks for mobile._
 - [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 - [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 - [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
-- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
+- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
@@ -181,7 +187,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 - [svelte-unicons](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 - [lucide-svelte](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
-- [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) - Based on https://github.com/react-icons/react-icons.
+- [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) - Based on <https://github.com/react-icons/react-icons>.
 - [svesome](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 
 ### Calendar
@@ -209,8 +215,8 @@ _Lets the user create and edit data._
 
 _Switch / on/off toggle / checkbox._
 
-- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). *(pre-v5)*
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. *(pre-v5)*
+- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). _(pre-v5)_
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. _(pre-v5)_
 
 ### Charts
 
@@ -236,7 +242,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
-- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
+- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 
 ## Utilities
@@ -252,7 +258,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [Formsnap](https://www.formsnap.dev/) - High level Svelte components for forms, built on top of Superforms and Zod.
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
-- [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
+- [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. _(pre-v5)_
 - [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ### WebGL
@@ -281,6 +287,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 - [@i18n-pro/svelte](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
+- [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 
 ## Routers
 
@@ -300,8 +307,8 @@ _For Single Page Applications (SPAs) and more._
 
 - [SvelteKit](https://svelte.dev/docs/kit/introduction) - The fastest way to build Svelte apps.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
-- [Elder.js](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. *(pre-v5)*
-- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. *(pre-v5)*
+- [Elder.js](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. _(pre-v5)_
+- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. _(pre-v5)_
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
