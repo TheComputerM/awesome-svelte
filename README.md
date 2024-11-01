@@ -49,7 +49,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [PWA](#pwa)
     - [Portal](#portal)
     - [Fonts](#fonts)
-    - [Internationalisation](#internationalisation)
+    - [Internationalization](#internationalization)
   - [Routers](#routers)
   - [Frameworks](#frameworks)
   - [Dev Tools](#dev-tools)
@@ -279,7 +279,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [svelte-web-fonts/google](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
-### Internationalisation
+### Internationalization
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
