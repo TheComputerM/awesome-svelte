@@ -37,14 +37,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Icons](#icons)
     - [Calendar](#calendar)
     - [Maps](#maps)
-    - [Form](#form)
-      - [Checkbox](#checkbox)
     - [Charts](#charts)
     - [Miscellaneous](#miscellaneous)
   - [Scaffold](#scaffold)
   - [Utilities](#utilities)
     - [Animations](#animations)
-    - [Form](#form-1)
+    - [Forms](#forms)
+      - [Form Components](#form-components)
+    - [HTTP Requests](#http-requests)
     - [WebGL](#webgl)
     - [PWA](#pwa)
     - [Portal](#portal)
@@ -207,17 +207,6 @@ _Display non-editable events in a calendar._
 - [esri-svelte](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 - [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library.
 
-### Form
-
-_Lets the user create and edit data._
-
-#### Checkbox
-
-_Switch / on/off toggle / checkbox._
-
-- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). _(pre-v5)_
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. _(pre-v5)_
-
 ### Charts
 
 - [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
@@ -252,7 +241,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
-### Form
+### Forms
 
 - [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 - [Formsnap](https://www.formsnap.dev/) - High level Svelte components for forms, built on top of Superforms and Zod.
@@ -260,6 +249,18 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. _(pre-v5)_
 - [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+
+#### Form Components
+
+_Individual form components._
+
+- [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). _(pre-v5)_
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. _(pre-v5)_
+
+### HTTP Requests
+
+- [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 
 ### WebGL
 
