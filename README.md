@@ -91,6 +91,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
 - [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
+- [Joy of Code](https://www.youtube.com/@JoyofCodeDev)
 
 ### Tutorials
 
@@ -129,6 +130,7 @@ _UI frameworks for mobile._
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
+-
 
 ## UI Libraries
 
@@ -217,6 +219,10 @@ _Display non-editable events in a calendar._
 - [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
+### Graphs
+
+- [svelte-flow](https://svelteflow.dev) - A customizable Svelte component for building node-based editors and interactive diagrams by the creators of React Flow
+
 ### Miscellaneous
 
 - [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
@@ -269,6 +275,7 @@ _Individual form components._
 
 - [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
+- [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
 ### Sound & Video
 
