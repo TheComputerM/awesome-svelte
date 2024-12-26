@@ -132,6 +132,7 @@ _UI frameworks for mobile._
 
 ## UI Libraries
 
+- [lomer-ui](https://ui.lomer.dev) - A dead-simple CLI tool to instantly kickstart your components.
 - [shadcn-svelte](https://www.shadcn-svelte.com/) - Beautifully designed components that you can copy and paste into your apps.
 - [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
 - [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
