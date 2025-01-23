@@ -238,6 +238,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+- [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 
 ## Utilities
 
