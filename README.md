@@ -241,6 +241,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
+- [notebook-app](https://github.com/datalisk/pulumi-aws-toolbox/tree/main/examples/notebook-app) - A open-source and serverless pastebin alternative built with Svelte, created with just ~100 lines of infrastructure code. It demonstrates how to easily run SvelteKit apps on AWS.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
