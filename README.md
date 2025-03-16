@@ -130,7 +130,7 @@ _UI frameworks for mobile._
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
--
+- [@tauri-store/svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) - Persistent Svelte stores and runes for Tauri.
 
 ## UI Libraries
 
