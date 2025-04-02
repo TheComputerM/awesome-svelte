@@ -236,6 +236,7 @@ _Display non-editable events in a calendar._
 - [svelte-stepper](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 - [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 - [svelte-speedometer](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
+- [embedz](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 
 ## Scaffold
 
