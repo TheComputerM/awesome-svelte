@@ -116,6 +116,7 @@ _Studies and research on the Svelte framework._
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+- [@nvl/sveltex](https://github.com/nvlang/sveltex) - Svelte + Markdown + LaTeX.
 
 ### Mobile
 
