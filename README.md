@@ -155,7 +155,7 @@ _UI frameworks for mobile._
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates 
+- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates
 - [Svelte Marketing Blocks](https://sv-blocks.vercel.app) - A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 
@@ -334,6 +334,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elegua](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
 - [svelte5-router](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 - [@wjfe/n-savant](https://github.com/WJSoftware/wjfe-n-savant) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
+- [sv-router](https://github.com/colinlienard/sv-router) - Type-safe SPA router with file-based or code-based routing.
 
 ## Frameworks
 
