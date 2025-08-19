@@ -255,6 +255,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
+- [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more. 
 
 ## Utilities
 
