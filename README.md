@@ -233,6 +233,7 @@ _Display non-editable events in a calendar._
 
 ### Miscellaneous
 
+- [number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
@@ -266,6 +267,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### Drag & Drop
 
 - [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
+- sveltednd(https://github.com/thisuxhq/sveltednd) - A lightweight, flexible drag and drop library for Svelte 5 applications.
 
 ### Forms
 
