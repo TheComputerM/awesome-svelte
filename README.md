@@ -155,7 +155,7 @@ _UI frameworks for mobile._
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates 
+- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates
 - [Svelte Marketing Blocks](https://sv-blocks.vercel.app) - A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 
@@ -171,7 +171,7 @@ _Tables and data grids._
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 - [powertable](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
-- [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling. 
+- [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.
 - [svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
@@ -258,7 +258,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
-- [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more. 
+- [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 
 ## Utilities
 
@@ -354,6 +354,10 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
+
+### Adapters
+
+- [JesterKit EXE](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
 
 ### Lint
 
