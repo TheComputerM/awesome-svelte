@@ -62,6 +62,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
       - [Sublime Text](#sublime-text)
       - [Vim](#vim)
       - [JetBrains](#jetbrains)
+  - [Application Examples](#application-examples)
+    - [Desktop](#desktop)
 
 ## Resources
 
@@ -395,3 +397,9 @@ _Text editor plugins._
 #### JetBrains
 
 - [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
+
+## Application Examples
+
+### Desktop
+
+- [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
