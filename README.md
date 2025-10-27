@@ -286,7 +286,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. _(pre-v5)_
 - [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte.
 - [Svelte Form Builder](https://svelte-form-builder.vercel.app) - Create forms with Shadcn Svelte, Superforms and ZOD | Valibot Schema within minutes.
-- [Formisch](https://formisch.dev/svelte/guides/introduction/) - A form library for Svelte with focus on performance, type safety and bundle size
+- [Formisch](https://formisch.dev/svelte/guides/introduction/) - A form library for Svelte with focus on performance, type safety and bundle size.
 
 #### Form Components
 
