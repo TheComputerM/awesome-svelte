@@ -333,6 +333,10 @@ _Individual form components._
 - [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 - [wuchale](https://github.com/K1DV5/wuchale) - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
 
+### Scrolling
+
+- [stick-to-bottom-svelte](https://github.com/polvallverdu/stick-to-bottom-svelte) - Scroll to bottom smoothly, useful for chat apps in general. Port of [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) for Svelte
+
 ## Routers
 
 _For Single Page Applications (SPAs) and more._
