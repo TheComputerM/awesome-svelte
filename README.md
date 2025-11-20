@@ -405,3 +405,9 @@ _Text editor plugins._
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+
+
+### Web
+
+- [Wisnu's Homepage](https://github.com/wiscaksono/site) - An awesome portfolio website built with Svelte.
+- [Scale_Engine](https://github.com/x7dl8p/svelte-landing-page) - A SAAS bilingual Landing page made with Svelte with good design and clean code.
