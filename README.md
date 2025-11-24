@@ -76,7 +76,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Community
 
-- [Twitter](https://twitter.com/sveltejs)
+- ~~[Twitter](https://twitter.com/sveltejs)~~
+- [Bluesky](https://bsky.app/profile/svelte.dev)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
 - [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
