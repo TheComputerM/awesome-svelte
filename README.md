@@ -249,6 +249,7 @@ _Display non-editable events in a calendar._
 - [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 - [svelte-speedometer](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 - [embedz](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
+- [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 
