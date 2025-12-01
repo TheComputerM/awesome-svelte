@@ -82,6 +82,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Reddit](https://www.reddit.com/r/sveltejs/)
 - [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
+### Ecosystem
+
+- [Directory of Svelte compatible packages](https://www.stacktco.com/js/ecosystems/svelte) on StackTCO (Site also built in Svelte)
+
 ### Conferences
 
 - [Svelte Summit](https://sveltesummit.com/)
