@@ -268,6 +268,10 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 ## Utilities
 
+### Accessibility
+
+- [svelte-aria-live](https://github.com/nickbrit/svelte-aria-live) - A lightweight package for seamless integration of WAI-ARIA live regions, improving accessibility for screen-reader users.
+
 ### Animations
 
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
