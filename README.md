@@ -365,6 +365,8 @@ _For Single Page Applications (SPAs) and more._
 
 ## Dev Tools
 
+- [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright. Includes a SvelteKit integration.
+
 ### Adapters
 
 - [JesterKit EXE](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
