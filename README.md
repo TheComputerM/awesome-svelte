@@ -28,6 +28,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Integrations](#integrations)
     - [Preprocessing](#preprocessing)
     - [Mobile](#mobile)
+    - [SEO](#seo)
   - [State Libraries](#state-libraries)
   - [UI Libraries](#ui-libraries)
   - [UI Components](#ui-components)
@@ -128,6 +129,10 @@ _UI frameworks for mobile._
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+
+### SEO
+
+- [@aeorank/sveltekit](https://github.com/vinpatel/aeorank) - AEO (Answer Engine Optimization) plugin for SvelteKit — generates llms.txt, schema.json, and more AI-readable files via resource routes.
 
 ## State Libraries
 
