@@ -120,6 +120,7 @@ _Studies and research on the Svelte framework._
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 - [@nvl/sveltex](https://github.com/nvlang/sveltex) - Svelte + Markdown + LaTeX.
+- [sveltekit-auto-openapi](https://github.com/mahmoodkhalil57/sveltekit-auto-openapi) - Type-safe OpenAPI generation and runtime validation for SvelteKit.
 
 ### Mobile
 
