@@ -366,6 +366,8 @@ _For Single Page Applications (SPAs) and more._
 
 ## Dev Tools
 
+- [annotaKit](https://github.com/nodestarQ/annotaKit) - Annotate your UI by clicking elements, selecting text, or multi-selecting, then export agent-ready context.
+
 ### Adapters
 
 - [JesterKit EXE](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
