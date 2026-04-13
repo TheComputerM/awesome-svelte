@@ -205,6 +205,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
 - [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 - [svelte-unicons](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
+- [@thesvg/svelte](https://github.com/glincker/thesvg) - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
 - [lucide-svelte](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
 - [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) - Based on <https://github.com/react-icons/react-icons>.
 - [svesome](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
