@@ -227,6 +227,7 @@ _Display non-editable events in a calendar._
 - [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 - [esri-svelte](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 - [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library.
+- [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
 
 ### Charts
 
