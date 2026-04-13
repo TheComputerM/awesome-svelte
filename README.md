@@ -366,6 +366,8 @@ _For Single Page Applications (SPAs) and more._
 
 ## Dev Tools
 
+- [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+
 ### Adapters
 
 - [JesterKit EXE](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
