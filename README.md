@@ -50,6 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [WebGL](#webgl)
     - [PWA](#pwa)
     - [Portal](#portal)
+    - [Responsive](#responsive)
     - [Fonts](#fonts)
     - [Internationalization](#internationalization)
   - [Routers](#routers)
@@ -325,6 +326,10 @@ _Individual form components._
 
 - [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 - [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+
+### Responsive
+
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe responsive toolkit with Svelte stores — typed breakpoints, fluid clamp, container queries, dark mode. Zero deps.
 
 ### Fonts
 
