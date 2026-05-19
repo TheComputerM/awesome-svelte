@@ -163,6 +163,7 @@ _UI frameworks for mobile._
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 - [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
 
 ## UI Components
 
