@@ -15,7 +15,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
-- [Awesome Svelte](#awesome-svelte-)
+- [Awesome Svelte ](#awesome-svelte-)
   - [Contents](#contents)
   - [Resources](#resources)
     - [Official Resources](#official-resources)
@@ -38,8 +38,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Calendar](#calendar)
     - [Maps](#maps)
     - [Charts](#charts)
+    - [Graphs](#graphs)
     - [Miscellaneous](#miscellaneous)
   - [Scaffold](#scaffold)
+  - [sv Community Addons](#sv-community-addons)
   - [Utilities](#utilities)
     - [Animations](#animations)
     - [Drag \& Drop](#drag--drop)
@@ -55,6 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Routers](#routers)
   - [Frameworks](#frameworks)
   - [Dev Tools](#dev-tools)
+    - [Adapters](#adapters)
     - [Lint](#lint)
     - [Test](#test)
     - [Editors](#editors)
@@ -269,6 +272,10 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
+
+## [sv](https://svelte.dev/docs/cli/community) Community Addons
+
+- [sveltekit-temporal](https://github.com/cycle4passion/sveltekit-temporal) - sv add-on wires the Temporal API polyfill into a SvelteKit project with conditional loading. Zero bytes if supported, polyfill if needed.
 
 ## Utilities
 
