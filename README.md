@@ -100,6 +100,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
 - [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
+- [TutorialSearch](https://tutorialsearch.io/?q=svelte) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Studies
 
