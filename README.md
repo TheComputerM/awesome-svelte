@@ -126,7 +126,7 @@ _Studies and research on the Svelte framework._
 
 _UI frameworks for mobile._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Svelte Native](https://svelte.nativescript.org/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
 
