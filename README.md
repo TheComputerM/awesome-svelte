@@ -414,3 +414,4 @@ _Text editor plugins._
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+- [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
