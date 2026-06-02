@@ -389,6 +389,10 @@ _Lint and format your code._
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
+### Visualizers
+
+- [Vivix](https://vivix.dev) - Instruction-level JavaScript execution visualizer with simultaneous heap memory visualization and async/await support.
+
 ### Editors
 
 _Text editor plugins._
