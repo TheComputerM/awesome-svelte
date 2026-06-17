@@ -366,6 +366,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. _(pre-v5)_
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. _(pre-v5)_
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+- [Mochi](https://mochi.fast/) - An performance-focused SSR meta-framework for Svelte 5 and Bun that renders everything on the server and ships JavaScript only where it's needed, with selective hydration and server islands.
 
 ## Dev Tools
 
