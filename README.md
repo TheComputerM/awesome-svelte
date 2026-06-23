@@ -180,7 +180,7 @@ _Tables and data grids._
 - [powertable](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
 - [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.
-- [SvGrid](https://github.com/sv-grid/sv-grid) - A Svelte datagrid 5 - headless and render-ready with the standard set of features. 
+- [SvGrid](https://github.com/sv-grid/sv-grid) - A Svelte 5 datagrid - headless and render-ready with the standard set of features. 
 - [svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
