@@ -64,6 +64,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
       - [JetBrains](#jetbrains)
   - [Application Examples](#application-examples)
     - [Desktop](#desktop)
+    - [Web](#web)
 
 ## Resources
 
@@ -417,3 +418,7 @@ _Text editor plugins._
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
+
+### Web
+
+- [Recipe Jar](https://recipejar.app) - Local-first recipe keeper built with Svelte 5 runes and IndexedDB: paste a link, get a clean card, save unlimited recipes offline with no backend. [Open source](https://github.com/sbmagar13/recipe-jar).
