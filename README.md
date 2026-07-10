@@ -417,3 +417,7 @@ _Text editor plugins._
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
+
+### Web
+
+- [Marble Taxonomy Explorer](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer) - Interactive taxonomy site using **Svelte 5 + Cytoscape.js** for graph visualization and search. Renders the open Marble Skill Taxonomy across 1,603 static pages. [Live demo](https://ashutoshsinghpr7.github.io/marble-taxonomy-explorer/)
