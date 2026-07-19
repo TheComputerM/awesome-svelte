@@ -256,6 +256,7 @@ _Display non-editable events in a calendar._
 - [embedz](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 - [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
+- [Markstream Svelte](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-svelte) - A streaming Markdown renderer for AI chat with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, and customizable Svelte components.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 
