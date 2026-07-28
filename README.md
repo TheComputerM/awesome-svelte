@@ -258,6 +258,7 @@ _Display non-editable events in a calendar._
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
+- [svelte-tooltip-gca](https://github.com/GABRYCA/svelte-tooltip-gca) - A modern, theme-aware tooltip action Component for Svelte 5 with auto light/dark and customizable themes
 
 ## Scaffold
 
