@@ -421,4 +421,4 @@ _Text editor plugins._
 
 ### Web
 
-- [Room TBA](https://room-tba.uplbtools.me) ([Source](https://github.com/uplbtools/room-tba)) - Map-first UPLB campus room finder with Svelte 5 islands, class schedules, jeepney routes, and offline PWA sync.
+- [Room TBA](https://room-tba.uplb.tools) ([Source](https://github.com/uplbtools/room-tba)) - Map-first UPLB campus room finder with Svelte 5 islands, class schedules, jeepney routes, and offline PWA sync.
