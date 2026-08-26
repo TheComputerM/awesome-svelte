@@ -129,6 +129,7 @@ _UI frameworks for mobile._
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+- [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ## State Libraries
 
