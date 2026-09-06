@@ -371,6 +371,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. _(pre-v5)_
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. _(pre-v5)_
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+- [Svelte DocSmith](https://github.com/geodask/svelte-docsmith) - A documentation framework for Svelte 5 library authors whose interactive examples live inside one real, stateful SvelteKit app rather than isolated sandboxes, turning a markdown file into a styled page with sidebar, search, and table of contents automatically.
 
 ## Dev Tools
 
