@@ -100,6 +100,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
 - [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
+- [TutorialSearch](https://tutorialsearch.io/?q=svelte) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Studies
 
@@ -128,6 +129,7 @@ _UI frameworks for mobile._
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+- [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ## State Libraries
 
@@ -163,6 +165,8 @@ _UI frameworks for mobile._
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 - [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
+- [human-kit](https://ui.human-kit.com) - Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.
 
 ## UI Components
 
@@ -253,9 +257,11 @@ _Display non-editable events in a calendar._
 - [svelte-speedometer](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 - [embedz](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 - [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
+- [File Viewer](https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte) - An offline-first Svelte component that previews 206 file extensions with lazy renderer presets and no server-side conversion.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
+- [crd-ui](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.
 
 ## Scaffold
 
@@ -264,12 +270,14 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
+- [Product Plate](https://github.com/rodrgds/productplate) - An open-source SvelteKit + Convex starter for building SaaS products.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 - [My SvelteKit Starter](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
+- [microfolio](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ## Utilities
 
@@ -308,6 +316,7 @@ _Individual form components._
 - [sswr](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 - [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
+- [@stitchapi/svelte](https://github.com/rejifald/StitchAPI/tree/main/packages/svelte) - Streaming-first StitchAPI bindings: typed, validated `stitchStore` / `stitchStreamStore` Svelte stores that re-render as response deltas arrive.
 
 ### Sound & Video
 
@@ -357,6 +366,7 @@ _For Single Page Applications (SPAs) and more._
 - [svelte5-router](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 - [@wjfe/n-savant](https://github.com/WJSoftware/wjfe-n-savant) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
 - [sv-router](https://github.com/colinlienard/sv-router) - Type-safe SPA router with file-based or code-based routing.
+- [ufbr](https://github.com/zakarialaoui10/ufbr) - An Universal File Based Router with Svelte support.
 
 ## Frameworks
 
@@ -367,6 +377,8 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
+
+- [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
 
 ### Adapters
 
@@ -413,3 +425,5 @@ _Text editor plugins._
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+- [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
+- [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
