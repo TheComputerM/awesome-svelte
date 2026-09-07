@@ -379,6 +379,7 @@ _For Single Page Applications (SPAs) and more._
 ## Dev Tools
 
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+- [Poveste](https://github.com/poveste-dev/poveste) - Component playgrounds for Svelte 5 and SvelteKit, powered by Vite. A drop-in fork of histoire.
 
 ### Adapters
 
