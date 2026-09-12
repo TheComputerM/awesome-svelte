@@ -262,6 +262,7 @@ _Display non-editable events in a calendar._
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 - [crd-ui](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.
+- [Bardkit](https://github.com/darkdarkcocoa/bardkit) - A playable instrument HUD for in-game music, with a sample-free Web Audio synth and 22 keys captured from the host app.
 
 ## Scaffold
 
