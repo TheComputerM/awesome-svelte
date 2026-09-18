@@ -425,5 +425,7 @@ _Text editor plugins._
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+- [Slate](https://github.com/MiaAI-Lab/Slate) - A featherlight Windows markdown editor with OLED true-black theme, live preview, multi-tab support, and zero telemetry. Built with Svelte 5 and Tauri 2.
+- [Slate](https://github.com/MiaAI-Lab/Slate) - A featherlight Windows markdown editor with OLED true-black theme, live preview, multi-tab support, and zero telemetry. Built with Svelte 5 and Tauri 2.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 - [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
