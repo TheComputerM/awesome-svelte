@@ -427,3 +427,4 @@ _Text editor plugins._
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 - [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
+- [OmniGet](https://github.com/tonhowtf/omniget) - Desktop downloader for YouTube, Instagram, TikTok, X, torrents and the sites yt-dlp supports, with an MCP server and a window to run AI coding agents, built with Svelte 5, SvelteKit and Tauri 2.
