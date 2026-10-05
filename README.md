@@ -239,6 +239,7 @@ _Display non-editable events in a calendar._
 - [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 - [SVAR Gantt Chart](https://github.com/svar-widgets/gantt) - An interactive, customizable Gantt chart component written in Svelte
+- [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Trading charts with indicators, drawing tools, live exchange feeds and orders on the chart; a Svelte 5 component in `@tradecanvas/svelte`.
 
 ### Graphs
 
