@@ -65,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Application Examples](#application-examples)
     - [Desktop](#desktop)
 
+- [svelte/store](https://svelte.dev/docs#run-time-svelte-store) - Built-in reactive stores in Svelte.
 ## Resources
 
 ### Official Resources
