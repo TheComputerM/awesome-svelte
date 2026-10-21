@@ -379,6 +379,7 @@ _For Single Page Applications (SPAs) and more._
 ## Dev Tools
 
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+- [Spotnote](https://github.com/harukikuri/spotnote) - Vite plugin for UI feedback to coding agents: click an element in your running app, write what should change, and the agent gets its exact file, line and column.
 
 ### Adapters
 
