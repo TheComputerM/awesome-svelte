@@ -380,6 +380,7 @@ _For Single Page Applications (SPAs) and more._
 ## Dev Tools
 
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+- [ide-byebye](https://github.com/bo-516/ide-byebye) - Click an element in the browser, describe the change, and send its exact source location to the AI coding agent you already use, such as Claude Code, Codex or Cursor.
 
 ### Adapters
 
