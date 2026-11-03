@@ -380,6 +380,7 @@ _For Single Page Applications (SPAs) and more._
 ## Dev Tools
 
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+- [GenClass](https://github.com/genclass-dev/GenClass) - Reports race conditions in a SvelteKit app while they happen (stale responses, duplicate submits) from one import in hooks.client, with a small on-device model.
 
 ### Adapters
 
