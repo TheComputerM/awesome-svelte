@@ -350,6 +350,7 @@ _Individual form components._
 - [@i18n-pro/svelte](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
 - [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 - [wuchale](https://github.com/K1DV5/wuchale) - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
+- [svelte-intlayer](https://github.com/aymericzip/intlayer) - Per-component i18n focused on bundle size. Declarative + compiler based i18n.
 - [Verbaly](https://github.com/AronSoto/verbaly) - Write the text in your components and a compiler extracts stable keys and types, with SvelteKit server rendering and a runtime of about 3 KB.
 
 ## Routers
