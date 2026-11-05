@@ -287,6 +287,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 - [moving-icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 - [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
+- [exodeui-svelte](https://github.com/exodeUI/exodeui-svelte) - Svelte 5 runtime for the ExodeUI animation engine to render interactive vector animations, physics, and state machines.
 
 ### Drag & Drop
 
