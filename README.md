@@ -398,6 +398,7 @@ _Lint and format your code._
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+- [TestMu AI SmartUI](https://www.testmuai.com/support/docs/smart-ui-storybook/) - Visual regression testing for Storybook stories, run from a Storybook server or static build, so it works with Svelte Storybook projects.
 
 ### Editors
 
