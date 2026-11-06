@@ -167,6 +167,7 @@ _UI frameworks for mobile._
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
 - [AgentsKit](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
 - [human-kit](https://ui.human-kit.com) - Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.
+- [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards with Svelte, including form controls, pickers, and dialogs.
 
 ## UI Components
 
@@ -183,6 +184,7 @@ _Tables and data grids._
 - [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.
 - [svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables built on RevoGrid for grouping, aggregation, subtotals, and grand totals. Commercial with a 30-day trial.
 
 ### Notification
 
@@ -224,6 +226,7 @@ _Display non-editable events in a calendar._
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 - [date-picker-svelte](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 - [@schedule-x/svelte](https://github.com/schedule-x/schedule-x) - A material design event calendar library.
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling built on RevoGrid, with calendar and timeline views. Commercial with a 30-day trial.
 
 ### Maps
 
@@ -239,6 +242,8 @@ _Display non-editable events in a calendar._
 - [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 - [SVAR Gantt Chart](https://github.com/svar-widgets/gantt) - An interactive, customizable Gantt chart component written in Svelte
+- [RevoGrid Charts](https://github.com/revolist/charts) - Interactive JavaScript charts for reports and dashboards, with zoom, annotations, and export. Commercial with a 30-day trial.
+- [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts built on RevoGrid for project tasks, dependencies, and timelines. Commercial with a 30-day trial.
 
 ### Graphs
 
@@ -262,6 +267,7 @@ _Display non-editable events in a calendar._
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 - [crd-ui](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards built on RevoGrid for workflow columns, swimlanes, and card editing. Commercial with a 30-day trial.
 
 ## Scaffold
 
