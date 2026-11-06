@@ -351,6 +351,7 @@ _Individual form components._
 - [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 - [wuchale](https://github.com/K1DV5/wuchale) - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
 - [svelte-intlayer](https://github.com/aymericzip/intlayer) - Per-component i18n focused on bundle size. Declarative + compiler based i18n.
+- [@comvi/svelte](https://github.com/comvi-io/comvi-js/tree/main/packages/svelte) - Svelte 5 i18n with type-checked keys, ICU plurals and a `<T>` component for markup inside translations.
 
 ## Routers
 
