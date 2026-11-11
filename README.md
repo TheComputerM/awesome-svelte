@@ -183,6 +183,7 @@ _Tables and data grids._
 - [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.
 - [svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
+- [Simple Table](https://www.simple-table.com/frameworks/svelte) - MIT licensed Svelte 5 data grid with sorting, filtering, and TypeScript support.
 
 ### Notification
 
