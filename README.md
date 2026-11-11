@@ -287,6 +287,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 - [moving-icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 - [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
+- [svg-scroll-draw](https://svg-scroll-draw.vercel.app/svelte-scroll-animation) - Svelte actions that draw SVG paths, reveal elements and split text as the page scrolls, on CSS scroll timelines where supported.
 
 ### Drag & Drop
 
