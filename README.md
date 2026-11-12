@@ -392,6 +392,7 @@ _Lint and format your code._
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 - [eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+- [Agnes](https://agnes.dev) - Hosted health score for Svelte and SvelteKit repositories: Svelte compiler checks, eslint-plugin-svelte and dependency checks every day, with nothing to install (commercial, free plan).
 
 ### Test
 
