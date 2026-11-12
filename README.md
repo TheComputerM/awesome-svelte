@@ -215,6 +215,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svesome](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 - [hugeicons](https://github.com/hugeicons/svelte) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
 - [moving icons](https://github.com/jis3r/icons) - A collection of beautifully crafted, animated Lucide icons.
+- [Kineticons](https://github.com/fabwaseem/kineticons/tree/main/packages/svelte) - 2,000+ icons in outline, duotone and filled, each with its own CSS motion, for Svelte 5.
 
 ### Calendar
 
