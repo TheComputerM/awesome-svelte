@@ -232,6 +232,7 @@ _Display non-editable events in a calendar._
 - [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 - [esri-svelte](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 - [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library.
+- [shadcn-svelte Map](https://shadcn-svelte-map.vercel.app) - Map components for shadcn-svelte built on MapLibre GL, with markers, routes, clusters, heatmaps, drawing and place search, installed with the shadcn-svelte CLI and no API key.
 
 ### Charts
 
