@@ -278,6 +278,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 - [My SvelteKit Starter](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 - [microfolio](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
+- [AgenticSaaS](https://agenticsaas.flawlesslyhuman.com/) - Paid SvelteKit starter with accounts, billing, credits, private files and documentation for coding agents; save $100 with LAUNCH100 for the first 100 paid launch licenses.
 
 ## Utilities
 
