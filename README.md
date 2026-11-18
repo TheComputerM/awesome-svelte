@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Charts](#charts)
     - [Miscellaneous](#miscellaneous)
   - [Scaffold](#scaffold)
+  - [Cool Stuff That Uses Svelte](#cool-stuff-that-uses-svelte)
   - [Utilities](#utilities)
     - [Animations](#animations)
     - [Drag \& Drop](#drag--drop)
@@ -278,6 +279,10 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 - [My SvelteKit Starter](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 - [microfolio](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
+
+## Cool Stuff That Uses Svelte
+
+- [notebook-app](https://github.com/datalisk/pulumi-aws-toolbox/tree/main/examples/notebook-app) - A open-source and serverless pastebin alternative built with Svelte, created with just ~100 lines of infrastructure code. It demonstrates how to easily run SvelteKit apps on AWS.
 
 ## Utilities
 
