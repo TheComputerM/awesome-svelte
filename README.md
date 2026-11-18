@@ -167,6 +167,7 @@ _UI frameworks for mobile._
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
 - [AgentsKit](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
 - [human-kit](https://ui.human-kit.com) - Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.
+- [@zikojs/svelte-console](https://github.com/zikojs/console/tree/main/packages/integrations/svelte) - A console-like UI component for Svelte that renders JavaScript console output directly inside your application.
 
 ## UI Components
 
