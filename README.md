@@ -400,6 +400,7 @@ _Lint and format your code._
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing GitHub, Google and six other sign-ins in SvelteKit apps without real accounts, with a [SvelteKit guide](https://mockatoo.globalunderdog.com/docs/sveltekit) for Better Auth and Auth.js.
 
 ### Editors
 
