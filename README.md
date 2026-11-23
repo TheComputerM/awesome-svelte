@@ -193,6 +193,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 - [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 - [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+- [Ding](https://github.com/YusufCeng1z/ding) - Zero-dependency toast notifications for Svelte 5 with spring physics, where one toast stays on screen and a new call morphs it in place instead of stacking.
 
 ### Grid
 
