@@ -241,6 +241,7 @@ _Display non-editable events in a calendar._
 - [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 - [SVAR Gantt Chart](https://github.com/svar-widgets/gantt) - An interactive, customizable Gantt chart component written in Svelte
+- [dataviz](https://github.com/dataviz-rs/dataviz/tree/main/wasm/npm) - Svelte component for 120+ chart types drawn by a Rust/WebAssembly renderer, with zoom, pan and hover built in.
 
 ### Graphs
 
