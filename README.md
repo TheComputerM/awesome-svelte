@@ -427,6 +427,8 @@ _Text editor plugins._
 
 ## Application Examples
 
+- [SvelteKit contact form with FCaptcha](https://github.com/WebDecoy/FCaptcha/tree/main/examples/sveltekit) - Demonstrates how to verify a token from a self-hosted CAPTCHA widget in a native SvelteKit 3 form action.
+
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
