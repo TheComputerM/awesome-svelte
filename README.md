@@ -55,6 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Routers](#routers)
   - [Frameworks](#frameworks)
   - [Dev Tools](#dev-tools)
+    - [Adapters](#adapters)
     - [Lint](#lint)
     - [Test](#test)
     - [Editors](#editors)
