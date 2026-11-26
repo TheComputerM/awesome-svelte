@@ -403,6 +403,10 @@ _Lint and format your code._
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 - [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing GitHub, Google and six other sign-ins in SvelteKit apps without real accounts, with a [SvelteKit guide](https://mockatoo.globalunderdog.com/docs/sveltekit) for Better Auth and Auth.js.
 
+### Visualizers
+
+- [Vivix](https://vivix.dev) - Instruction-level JavaScript execution visualizer with simultaneous heap memory visualization and async/await support.
+
 ### Editors
 
 _Text editor plugins._
