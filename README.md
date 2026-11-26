@@ -355,6 +355,10 @@ _Individual form components._
 - [wuchale](https://github.com/K1DV5/wuchale) - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
 - [svelte-intlayer](https://github.com/aymericzip/intlayer) - Per-component i18n focused on bundle size. Declarative + compiler based i18n.
 
+### Scrolling
+
+- [stick-to-bottom-svelte](https://github.com/polvallverdu/stick-to-bottom-svelte) - Scroll to bottom smoothly, useful for chat apps in general. Port of [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) for Svelte
+
 ## Routers
 
 _For Single Page Applications (SPAs) and more._
